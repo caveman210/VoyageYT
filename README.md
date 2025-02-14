@@ -1,4 +1,4 @@
-Voyage is a frontend to JioSaavn!
+## Voyage is a frontend to JioSaavn!
 
 Stream and download your favourite tunes for free!
 
@@ -12,7 +12,7 @@ Install [Node.js](https://nodejs.org/en) on your system.
 Navigate to the program folder and open terminal/cmd.
 
 Run the following commands:
-`npm install`
+`npm install` &
 `npm install express --save`
 
 To start the application, run:
