@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(24,24,24);
+    color:white
+}
+
+.about-container{
+    margin-top: 10em;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Lexend", serif;
+    gap:10px;
+}
+
+.about-logo{
+    font-family: "Caesar Dressing", serif;
+    color: violet;
+    font-size: 8em;
+}
+
+.description{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.git-link{
+    color: rgb(48, 180, 232);
+}

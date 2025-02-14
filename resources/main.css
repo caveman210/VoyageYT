@@ -1,0 +1,65 @@
+.page{
+
+    display:flex;
+    flex-direction: column;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 25em 25em 25em;
+    grid-template-rows: repeat(auto-fill, minmax(150px, auto));
+    gap:50px;
+    justify-content: center;
+    align-items: center;
+    height: 1800px;
+    width:100%;
+    color:white;
+    font-family:"Lexend",serif;
+    margin-left: 10px;
+}
+
+.card{
+    display: flex;
+    gap:30px;
+    padding:10px 10px;
+}
+
+.card:hover{
+    background-color: rgb(38, 38, 38);
+    padding:10px 10px;
+    border-radius: 20px;
+    width:26em;
+    cursor: pointer;
+}
+
+.main-iconholder{
+    height:6em;
+    width:6em;
+}
+
+.main-player-thumb{
+    height:100%;
+    width:100%;
+    border-radius: 10px;
+    background-color: rgb(24,24,24);
+}
+
+.main-details{
+    padding-top: 1.7em;
+    gap: 10px;
+}
+
+.status{
+    padding-left: 85px;
+    color:white;
+    font-family: "Lexend";
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 5em;
+    text-align: center;
+}
+
+.effect{
+    color: violet;
+}
+
