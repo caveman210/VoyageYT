@@ -1,5 +1,5 @@
 Voyage is an open-source music player which serves as a frontend to JioSaavn.
-Copyright (C) 2024 Sooraj Vakkiyil
+Copyright (C) 2024 Sooraj V
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
