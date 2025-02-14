@@ -26,4 +26,7 @@ By default, the application is set to run on [localhost:6500](localhost:6500)
 * [Express.js](https://expressjs.com/)
 * [Forge](https://github.com/digitalbazaar/forge)
 
-This project is licensed under the GNU General Public License v3.0
+### This project is licensed under the GNU General Public License v3.0
+
+Voyage is still under development, so expect bugs.
+Kindly open issues if you find any!
