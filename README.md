@@ -1,4 +1,4 @@
-## Voyage is a frontend to JioSaavn!
+## Voyage is a frontend to JioSaavn!  => Now with YouTube!
 
 Stream and download your favourite tunes for free!
 
